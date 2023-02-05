@@ -10,6 +10,7 @@ void startScreen() {
 		for(;;);
 	}
     
+  display.setRotation(2);
   display.setTextSize(2);
   display.setTextColor(WHITE);
   display.clearDisplay();

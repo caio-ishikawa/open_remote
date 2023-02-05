@@ -1,4 +1,8 @@
 # Open-Remote POC
+<div>
+    <img src="https://i.imgur.com/nlkHP9E.jpg" height=283>
+    <img src="https://i.imgur.com/Hb0BHG4.jpg" width=400>
+</div>
 
 ## Table of content
 1. [Description](#description)
@@ -44,8 +48,9 @@ Material List:
 - 220ohm resistor
 - IR receiver (I used a TSOP4838)
 
-Schematic for single-assignable-button prototype build
-<img src="https://i.imgur.com/qh1zgPZ.jpg" size=100>
+[Schematic for prototype build with single assignable button](https://i.imgur.com/nlkHP9E.jpg)
+
+[Image of breadboard prototype](https://i.imgur.com/Hb0BHG4.jpg)
 
 ## How it works
 Open-remote has two modes: Pairing mode & Remote mode.
